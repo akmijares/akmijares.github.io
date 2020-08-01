@@ -3,10 +3,10 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../gems/gems/minima-2.5.1/_sass/minima.scss",
-		"../gems/gems/minima-2.5.1/_sass/minima/_base.scss",
-		"../gems/gems/minima-2.5.1/_sass/minima/_layout.scss",
-		"../gems/gems/minima-2.5.1/_sass/minima/_syntax-highlighting.scss"
+		"../../../../../../../../home/karlo/gems/gems/minima-2.5.1/_sass/minima.scss",
+		"../../../../../../../../home/karlo/gems/gems/minima-2.5.1/_sass/minima/_base.scss",
+		"../../../../../../../../home/karlo/gems/gems/minima-2.5.1/_sass/minima/_layout.scss",
+		"../../../../../../../../home/karlo/gems/gems/minima-2.5.1/_sass/minima/_syntax-highlighting.scss"
 	],
 	"sourcesContent": [
 		"@import \"minima\";\n",
