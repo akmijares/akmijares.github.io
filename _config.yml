@@ -36,7 +36,7 @@ footer:
       link: https://github.com/Speedy905
 
 # Build settings
-theme: bay_jekyll_theme
+remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
 
