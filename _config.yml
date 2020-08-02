@@ -42,7 +42,7 @@ footer:
       link: https://github.com/Speedy905
 
 # Build settings
-remote_theme: eliottvincent/bay
+theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
 
