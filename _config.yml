@@ -28,6 +28,7 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
+    - name: About
 
 footer:
   show_powered_by: true
