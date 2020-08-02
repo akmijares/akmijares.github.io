@@ -5,6 +5,11 @@
 layout: home
 ---
 
+<h1>Hello World!</h1>
+
 <p>
-Hello World!
+This is a side project of mine. This site will be built over time
+with changes that can happen in different times. This is also an
+experimental site, so whatever you might see, may not represent
+the final version.
 </p>
