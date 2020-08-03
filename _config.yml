@@ -23,6 +23,7 @@ description: >-
   My website to experiment and to show.
 baseurl:
 url: "https://speedy905.github.io"
+google_analytics: "UA-174267429-1"
 
 header:
   pages:
