@@ -29,7 +29,7 @@ header:
     - name: Home
       slug: /
     - name: About
-      slug: /about
+    - name: Work
 
 footer:
   show_powered_by: true
