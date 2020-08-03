@@ -19,5 +19,5 @@ I'm currently studying at
 [Seneca College](https://www.senecacollege.ca/home.html)
 where I hope to gain the skills to work in the IT field.
 
-Don't know where to start? Try [...], and don't hesitate to
+Don't know where to start? Try my [Resume](/resume), and don't hesitate to
 [contact me](mailto:AK.Mijares99@gmail.com) for any questions!
