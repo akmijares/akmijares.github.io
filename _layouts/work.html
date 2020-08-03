@@ -13,7 +13,7 @@
 
           {% for item in page.items %}
           <div class="work-item">
-            <a href="{{ item.image | absolute_url }}">
+            <a href="{{ item.image.link | absolute_url }}">
             <img
               src="{{ item.image.src | absolute_url }}"
               alt="{{ item.image.alt }}"
