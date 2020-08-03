@@ -3,13 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+profile_picture:
+  src: /assets/img/home-page.png
+  alt: A picture of Antonio Karlo Mijares
 ---
 
-<h1>Hello World!</h1>
+# echo "Hello World!"
 
-<p>
-This is a side project of mine. This site will be built over time
-with changes that can happen in different times. This is also an
-experimental site, so whatever you might see, may not represent
-the final version.
-</p>
+Welcome to my site! To learn more about myself, feel free to look around
+using the links above.
