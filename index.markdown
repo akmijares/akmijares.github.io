@@ -4,7 +4,7 @@
 
 layout: home
 profile_picture:
-  src: /assets/img/home-page.png
+  src: /assets/img/home-page.jpg
   alt: A picture of Antonio Karlo Mijares
 ---
 
