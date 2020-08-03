@@ -27,8 +27,9 @@ url: "https://speedy905.github.io"
 header:
   pages:
     - name: Home
-      slug: /     # <-- index.md
+      slug: /
     - name: About
+      slug: /about
 
 footer:
   show_powered_by: true
