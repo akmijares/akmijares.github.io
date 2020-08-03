@@ -4,6 +4,7 @@ title: Projects
 slug: /Projects
 items:
   - title: Website (August 2020)
+    link: /assets/img/projects/website_favicon.png
     image:
       src: /assets/img/projects/website_favicon.png
       alt: Website Logo/Favicon
