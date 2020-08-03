@@ -29,7 +29,8 @@ header:
     - name: Home
       slug: /
     - name: About
-    - name: Work
+    - name: Resume
+    - name: Projects
 
 footer:
   show_powered_by: true
