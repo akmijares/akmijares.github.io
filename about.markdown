@@ -6,7 +6,7 @@ slug: /about
 
 # Who am I?
 
-![A picture of me scuba diving](/assets/img/about-page.png)
+[![A picture of me scuba diving](/assets/img/about-page.png)](/assets/img/about-page.png "A picture of me scuba diving")
 
 My name is Antonio Karlo Mijares. I was born in the Philippines and
 immigrated to Canada in May 2009. I've been living here ever since.
