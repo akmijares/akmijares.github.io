@@ -3,6 +3,12 @@ layout: work
 title: Projects
 slug: /Projects
 items:
+  - title: Backup and Restore .qcow2 (Summer and Fall 2020)
+    image:
+      link: https://github.com/Speedy905/Backup-and-Restore
+      src: /assets/img/projects/github-mark.png
+      alt: Github Logo
+    description: A backup and restore for qcow2 files. Inspired from one of my courses, since I deal with Virtual machines with virt-manager alot, I wanted an easier way to backup and restore my virtual machines without having to type out commands one by one.
   - title: Website (August 2020)
     image:
       link: /assets/img/projects/website_favicon.png
