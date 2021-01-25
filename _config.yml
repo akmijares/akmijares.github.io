@@ -20,9 +20,9 @@
 
 title: Antonio Karlo Mijares
 description: >-
-  My website to experiment and to show.
+  Antonio Karlo Mijares' Personal website.
 baseurl:
-url: "https://speedy905.github.io"
+url: "www.akmijares.ca"
 google_analytics: "UA-174267429-1"
 
 header:
@@ -37,8 +37,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: AK.Mijares99@gmail.com
-      link: mailto:AK.Mijares99@gmail.com
+      value: hello@akmijares.ca
+      link: mailto:hello@akmijares.ca
   follow:
     - name: LinkedIn
       link: https://linkedin.com/in/akmijares
