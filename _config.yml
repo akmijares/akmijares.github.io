@@ -32,6 +32,7 @@ header:
     - name: About
     - name: Resume
     - name: Projects
+    - name: Contact
 
 footer:
   show_powered_by: true
