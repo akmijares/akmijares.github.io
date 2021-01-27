@@ -15,12 +15,12 @@ Want to get in contact with me? Send me a shout here, and we'll chat!
 </style>
 <form action="https://formspree.io/xyybobka" method="POST" class="form-container">
   <label>Name:</label><br />
-  <input type="text" name="_name" />
+  <input type="text" name="_name" required/>
   <label>Email:</label><br />
-  <input type="text" name="_replyto" />
+  <input type="text" name="_replyto" required/>
   <label>Subject:</label><br />
   <input type="text" name="_subject" />
-  <label>Your message:</label><br />
-  <textarea name="message"></textarea>
+  <label>Message:</label><br />
+  <textarea name="message" required></textarea>
   <button type="submit">Send</button>
 </form>
