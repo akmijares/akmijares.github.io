@@ -3,6 +3,12 @@ layout: work
 title: Projects
 slug: /Projects
 items:
+  - title: Email Server (April 2021)
+    image:
+      link: https://sp33dyboi.xyz/
+      src: /assets/img/projects/email.svg
+      alt: Email server
+    description: A custom email server. I've wanted to experiment on server hosting, especially on a VPS, so I've decided to buy a virtual instance on Vultr, and followed <a href="https://github.com/LukeSmithxyz/emailwiz">Luke Smith's script</a>, which resulted in a working email server. An email server wasn't exactly my first choice, but it was interesting to tackle upon
   - title: Backup and Restore .qcow2 (Summer and Fall 2020)
     image:
       link: https://github.com/Speedy905/Backup-and-Restore
@@ -29,7 +35,7 @@ items:
     description: My PC upgrade to latest hardware. Everything was swapped out, except for the drives. It is currently on a Ryzen 5 3600x, paired with a RX 5700XT on a X570 motherboard.
   - title: Arch Linux installation (Between 2017 to 2018)
     image:
-      link: /assets/img/projects/archlinux-logo.png
+      link: https://archlinux.org/
       src: /assets/img/projects/archlinux-logo.png
       alt: Arch Linux Logo
     description: Using Arch as a primary operating system. With my basic Linux knowledge that I've acquired over the years, I wanted to experiment/play around with it more, which lead me to the installation of Arch Linux. My current laptop, a hand-me-down t430s has Arch Linux installed.
