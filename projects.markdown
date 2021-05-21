@@ -3,6 +3,12 @@ layout: work
 title: Projects
 slug: /Projects
 items:
+  - title: VGSC (May 2021)
+    image:
+      link: https://github.com/Speedy905/VGSC
+      src: /assets/img/projects/github-mark.png
+      alt: Github Logo
+    description: A rewrite of my Grade 12 culminating. I wanted to see if I could rewrite my <a href="https://github.com/Speedy905/Video-Game-Storage-Creator">Grade 12 culminating assignment</a> using Bash. I was actually able to do the experimentation, which allowed me to release a Minimum Viable Product (MVP) in less than a week.
   - title: Email Server (April 2021)
     image:
       link: https://sp33dyboi.xyz/
