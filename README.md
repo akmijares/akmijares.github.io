@@ -1,4 +1,4 @@
-# speedy905.github.io
+# akmijares.github.io
 My personal website hosted on Github Pages
 
 To view the website, go to: [akmijares.github.io](https://akmijares.github.io/).
