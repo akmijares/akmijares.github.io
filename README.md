@@ -1,7 +1,7 @@
 # speedy905.github.io
 My personal website hosted on Github Pages
 
-To view the website, go to: [speedy905.github.io](https://speedy905.github.io/).
+To view the website, go to: [akmijares.github.io](https://akmijares.github.io/).
 
 The theme used for this site is [bay](https://github.com/eliottvincent/bay).
 
