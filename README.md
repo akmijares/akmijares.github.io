@@ -1,4 +1,7 @@
 # akmijares.github.io
+
+# DEPRECATED. WILL NO LONGER BE UPDATED.
+
 My personal website hosted on Github Pages
 
 To view the website, go to: [akmijares.github.io](https://akmijares.github.io/).
